@@ -19,7 +19,7 @@ Once the payment has been sent, the archive password will be sent to you by emai
 Program upgrades are available once a month.
 ```
 What are the performances of our Bot?
-<Dircord Server with live bot performance coming soon>
+Dircord Server with live bot performance coming soon
 
 ## Setup
 
