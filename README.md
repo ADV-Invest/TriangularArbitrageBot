@@ -7,6 +7,20 @@
 - Sort and display top opportunities in descending order.
 - Store historic opportunity information in DB, for later aggregation & analytics.
 
+## Password Zip File
+Triangular Arbitrage Bot pays off!
+The rate is $ 1000, (BTC, ETH, BNB, VET, LTC)
+
+```
+Contact me at this email address: contact@advinvest.net
+Once the payment has been sent, the archive password will be sent to you by email.
+```
+```
+Program upgrades are available once a month.
+```
+What are the performances of our Bot?
+<Dircord Server with live bot performance coming soon>
+
 ## Setup
 
 #### Install Dependencies
