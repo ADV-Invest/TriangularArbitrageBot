@@ -34,10 +34,14 @@ Dircord Server with live bot performance coming soon
 #### Clone & Install Repo
 
 ```
-git clone https://github.com/Coininfomo/TriangularArbitrageBot.git
-cd TriangularArbitrage
+Download Zip File and extract
+cd TriangularArbitrageBot
 npm install
+--
+Install mongoDB
 ```
+
+
 
 ## Configuration
 
